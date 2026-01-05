@@ -157,7 +157,3 @@ Mom: The house, dear. Lock up the house.
 36
 00:02:25,000 --> 00:02:28,500
 Dad: Oh. That makes more sense.
-
-37
-00:02:29,500 --> 00:02:33,000
-[END]
