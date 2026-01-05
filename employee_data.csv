@@ -1,0 +1,51 @@
+ID,Employee_Name,Department,Years_Experience,Sick_Days_Taken,Dad_Joke_Count,Coffee_Consumed_Daily,Meeting_Hours_Weekly,Excuse_Quality,Productivity_Score
+1,Bob Johnson,IT,15,42,156,8,25,Mediocre at best,2.3
+2,Karen Smith,HR,8,12,3,2,35,Professional victim,7.1
+3,Dave Williams,Engineering,12,5,89,12,15,Actually plausible,8.9
+4,Linda Martinez,Sales,6,18,0,4,20,Involves traffic,6.2
+5,Tom Anderson,Marketing,10,8,45,6,18,Blames technology,7.5
+6,Sarah Davis,Finance,20,3,12,3,40,References policy,9.1
+7,Mike Thompson,Operations,5,25,67,10,12,Dog ate homework,4.8
+8,Emily Garcia,Design,7,9,23,5,16,Creative fiction,8.2
+9,Chris Brown,Legal,18,4,8,1,50,Legally binding,9.5
+10,Jessica Lee,IT,3,15,34,7,22,Technical jargon,5.9
+11,James Wilson,Sales,9,20,2,9,19,Client emergency,6.8
+12,Amy Taylor,HR,11,6,15,3,38,Process related,8.1
+13,Ryan Moore,Engineering,14,7,78,11,14,Compiling code,8.7
+14,Nicole White,Marketing,4,22,19,5,21,Campaign crisis,5.5
+15,Kevin Harris,Finance,16,2,5,2,42,Spreadsheet error,9.3
+16,Lisa Clark,Operations,8,11,56,8,13,Supply chain issue,7.3
+17,Brian Lewis,Design,6,13,41,6,17,Inspiration pending,6.9
+18,Melissa Walker,Legal,22,1,4,1,48,Precedent review,9.8
+19,Daniel Hall,IT,10,16,92,13,20,Server migration,7.2
+20,Angela Allen,Sales,7,19,1,4,23,Quota anxiety,6.1
+21,Patrick Young,HR,13,5,28,3,36,Team building,8.4
+22,Rachel King,Engineering,11,8,101,10,16,Debugging life,8.6
+23,Jason Wright,Marketing,5,24,37,7,19,Brand alignment,5.2
+24,Stephanie Lopez,Finance,19,3,9,2,41,Audit prep,9.2
+25,Matthew Hill,Operations,6,14,63,9,14,Logistics humor,7.1
+26,Laura Scott,Design,9,10,52,5,18,Design thinking,7.8
+27,Andrew Green,Legal,21,2,6,1,47,Contract review,9.6
+28,Jennifer Adams,IT,4,17,44,8,21,Password reset,6.4
+29,Joshua Baker,Sales,12,21,3,10,18,Pipeline problems,6.5
+30,Amanda Nelson,HR,10,7,31,4,37,Conflict resolution,8.0
+31,Tyler Carter,Engineering,13,6,88,11,15,Algorithm issues,8.8
+32,Rebecca Mitchell,Marketing,8,23,42,6,22,Social media crisis,5.7
+33,Brandon Perez,Finance,17,4,11,2,43,Budget concerns,9.0
+34,Kimberly Roberts,Operations,7,12,71,9,12,Process optimization,7.4
+35,Eric Turner,Design,5,14,48,7,19,Aesthetic emergency,6.7
+36,Samantha Phillips,Legal,20,1,7,1,49,Litigation avoidance,9.7
+37,Gregory Campbell,IT,11,18,95,14,19,Network issues,7.0
+38,Cynthia Parker,Sales,6,20,2,5,24,Cold calling dread,5.9
+39,Scott Evans,HR,14,8,33,3,39,Employee engagement,8.3
+40,Heather Edwards,Engineering,12,9,84,10,17,Code refactoring,8.5
+41,Justin Collins,Marketing,9,26,46,8,20,Content calendar chaos,5.1
+42,Megan Stewart,Finance,18,5,13,2,44,Reconciliation woes,8.9
+43,Aaron Sanchez,Operations,10,13,69,8,11,Efficiency gains,7.6
+44,Tiffany Morris,Design,8,11,58,6,16,User experience angst,7.7
+45,Zachary Rogers,Legal,23,2,5,1,46,Compliance check,9.9
+46,Vanessa Reed,IT,5,19,49,9,23,Backup failure,6.3
+47,Nathan Cook,Sales,8,22,4,11,17,Rejection fatigue,6.0
+48,Crystal Morgan,HR,12,9,26,4,34,Policy update,8.2
+49,Jordan Bell,Engineering,15,10,97,12,13,Legacy code nightmares,8.4
+50,Brittany Murphy,Marketing,7,25,39,7,25,Engagement metrics,5.4
