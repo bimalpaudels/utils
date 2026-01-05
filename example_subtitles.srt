@@ -1,0 +1,123 @@
+1
+00:00:00,000 --> 00:00:04,500
+Here, in the wild digital plains of Silicon Valley,
+we observe a curious creature.
+
+2
+00:00:04,500 --> 00:00:08,000
+The Developer. Notice how it sits,
+bathed in the glow of multiple monitors.
+
+3
+00:00:08,500 --> 00:00:12,000
+Today, it has discovered something remarkable:
+a task management application.
+
+4
+00:00:12,500 --> 00:00:16,500
+"I could build this myself," it whispers,
+eyes gleaming with ambition.
+
+5
+00:00:17,000 --> 00:00:21,000
+Watch as it opens a new repository.
+The ritual has begun.
+
+6
+00:00:21,500 --> 00:00:25,500
+Day One: Our developer creates the perfect folder structure.
+Truly magnificent.
+
+7
+00:00:26,000 --> 00:00:30,000
+Day Two: It debates between React and Vue
+for the next three hours.
+
+8
+00:00:30,500 --> 00:00:34,500
+Finally, a decision is made.
+The scaffolding is complete.
+
+9
+00:00:35,000 --> 00:00:39,000
+Day Three: It builds a custom authentication system.
+"Why use libraries?" it ponders.
+
+10
+00:00:39,500 --> 00:00:43,500
+Day Four: The developer discovers
+another interesting application.
+
+11
+00:00:44,000 --> 00:00:48,000
+"A note-taking app! I could build this too!"
+The cycle begins anew.
+
+12
+00:00:48,500 --> 00:00:52,500
+The task manager, now forgotten,
+joins the repository graveyard.
+
+13
+00:00:53,000 --> 00:00:57,000
+Alongside it: a Slack clone, a Trello replica,
+and three different weather apps.
+
+14
+00:00:57,500 --> 00:01:01,500
+But wait! What's this?
+Our developer spots a new framework.
+
+15
+00:01:02,000 --> 00:01:06,000
+"Everything I've built is obsolete now,"
+it declares with certainty.
+
+16
+00:01:06,500 --> 00:01:10,500
+And so, the note-taking app joins its siblings,
+half-formed and abandoned.
+
+17
+00:01:11,000 --> 00:01:15,000
+The Developer's GitHub profile now boasts
+47 repositories.
+
+18
+00:01:15,500 --> 00:01:19,500
+Each one, a testament to enthusiasm.
+None of them, actually finished.
+
+19
+00:01:20,000 --> 00:01:24,000
+Yet our developer remains undeterred,
+forever optimistic.
+
+20
+00:01:24,500 --> 00:01:28,500
+For in this vast digital ecosystem,
+there is always another project to start.
+
+21
+00:01:29,000 --> 00:01:33,000
+And perhaps, just perhaps,
+this next one will be different.
+
+22
+00:01:33,500 --> 00:01:37,500
+Narrator: It won't be.
+But let us not disturb this beautiful delusion.
+
+23
+00:01:38,000 --> 00:01:42,000
+Nature, in all its wisdom,
+has created the perfect loop.
+
+24
+00:01:42,500 --> 00:01:46,500
+The Developer has already opened a new terminal.
+The hunt for the next idea begins.
+
+25
+00:01:47,000 --> 00:01:50,000
+And so, the circle of software life continues.
